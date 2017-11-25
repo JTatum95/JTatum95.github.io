@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Jesse Tatum GitHub Projects
 
-You can use the [editor on GitHub](https://github.com/JTatum95/JTatum95.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Welcome to my GitHub Project Page. I am planning on putting a few projects up here to show some of the work that I have done in development in various different areas. This is currently in progress and not yet completed.
 
 ### Markdown
 
