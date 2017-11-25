@@ -39,7 +39,7 @@ Design and implementation of various Data Structures in Java.
 # Outside Projects
 ### Code for the Kingdom
 I worked primarily as a front end web devloper on this project using HTML, CSS and Javascript.
-[Kingdomline](#)
+[Kingdomline](/kingdomline/web/index.php)
 
 ### Personal Projects
 Shell scripting
