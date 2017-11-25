@@ -1,4 +1,4 @@
-## Jesse Tatum GitHub Projects
+## Jesse Tatum 
 
 Welcome to my GitHub Project Page. I am planning on putting a few projects up here to show some of the work that I have done in development in various different areas. This is currently in progress and not yet completed.
 
@@ -26,12 +26,20 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Class Projects
+### Software Development
+Android Java Development on the Android application for Wheaton Collge.
 
-### Jekyll Themes
+### Computer Systems
+Bit manipulation, x86 machine code, Cache Simulator, Shell in C.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JTatum95/JTatum95.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Data Structures and Algorithms
+Design and implementation of various Data Structures in Java.
 
-### Support or Contact
+# Outside Projects
+### Code for the Kingdom
+I worked primarily as a front end web devloper on this project using HTML, CSS and Javascript.
+[Kingdomline](#)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Personal Projects
+Shell scripting
