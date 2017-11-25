@@ -1,0 +1,87 @@
+body, html{
+    font-family: 'Oxygen', sans-serif;
+    background-image: url(https://images.unsplash.com/photo-1496568816309-51d7c20e3b21?dpr=1&auto=format&fit=crop&w=1080&h=608&q=80&cs=tinysrgb&crop=);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: scroll;
+}
+h4.title { 
+	font-size: 3.125rem;
+	font-family: 'Corbel'; 
+	font-weight: 400; 
+}
+
+h2{
+    color: #FFFFFF;
+    font-size: 3rem;
+}
+
+.form-group{ margin-bottom: .9rem; }
+
+label{ margin-bottom: .9rem; }
+
+.form-control {
+    height: auto!important;
+    padding: .5rem .75rem !important;
+}
+
+.span {
+    position: relative;
+    float: left;
+    overflow: hidden;
+}
+
+.input-group {
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.2)!important;
+    -moz-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.2)!important;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.2)!important;
+}
+
+#button {
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid #ccc;
+    margin-top: .75rem;
+    padding: .3rem .75rem .8rem .75rem;
+    color: #000000;
+    text-shadow: 0 1px #fff;
+    cursor: pointer;
+    border-radius: 3px 3px;
+    box-shadow: 0 1px #fff inset, 0 1px #ddd;
+}
+span.input-group-addon i {
+    color: #009edf;
+    font-size: 1.1rem;
+}
+
+p {
+    pointer-events: none !important;
+    color: black;
+}
+.expiration {
+    align-self: center;
+    font-size: 1.1rem;
+    color: #FFFFFF;
+}
+.exp { color: #000; s}
+.credit, .cvv, .exp_month, .exp_year {
+    float: left;
+    position: relative;
+    width: 50%;
+}
+input,
+input::-webkit-input-placeholder {
+    font-size: 1rem;
+    padding-top: 3px;
+}
+.form {
+    vertical-align: middle;
+    text-align: center;
+    background: #3B94DD;
+    background: rgba(0, 0, 0, 0.7);
+    padding: 3.1rem 3.1rem 3.1rem 3.1rem;
+    margin: 0 350px 50px 350px;
+}

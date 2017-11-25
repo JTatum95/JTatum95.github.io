@@ -1,0 +1,34 @@
+.navbar-fixed-top {
+    height: 50px;
+}
+
+.navbar {
+    background: #fff;
+}
+
+.container {
+    position:relative;
+}
+
+.navbar-right {
+    float: left !important;
+    text-align: center;
+    vertical-align: middle;
+    padding: 13px 20px 15px 15px;
+    border: none;
+}
+
+.jumbotron {
+    font-family: Corbel, sans-serif;
+	background-image: url(../images/city.jpg);
+	background-size: cover;
+    height: auto;
+}
+
+.jumbotron .container { 
+    color: #FFFFFF;
+    background: rgba(0,0,0,.5);
+    padding-top: 3em;
+}
+
+div div div h3{ font-family: Arial, Trebuchet MS; }
