@@ -15,7 +15,7 @@ Design and implementation of various Data Structures in Java.
 # Outside Projects
 ### Code for the Kingdom
 I worked primarily as a front end web devloper on this project using HTML, CSS and Javascript.
-[Kingdomline]({{ site.baseurl }}{% link /klweb/web/index.php %})
+[Kingdomline](/klweb/web/index.html)
 
 
 ### Personal Projects
