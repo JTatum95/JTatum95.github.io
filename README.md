@@ -2,7 +2,7 @@
 
 Welcome to my GitHub Project Page. I am planning on putting a few projects up here to show some of the work that I have done in development in various different areas. This is currently in progress and not yet completed.
 
-[Test Page](http://localhost:63342/kingdomline/web/index.php)
+[Kingdomline](/klweb/web/index.php)
 
 ### Markdown
 
