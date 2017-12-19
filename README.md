@@ -4,9 +4,9 @@ Welcome to my GitHub page. I am planning on putting a few projects up here to sh
 
 # Classwork
 ## Completed classes
-    Programming I, Programming II, Discrete Math and Functional Programming, Software Development, Data Structures and Algorithms, Introduction to Computer Systems 
+* Programming I, Programming II, Discrete Math and Functional Programming, Software Development, Data Structures and Algorithms, Introduction to Computer Systems 
 ## In progress
-    Networking
+* Networking
 
 ## In-class projects
     * Android Java Development for the Wheaton College Android application.
