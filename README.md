@@ -9,16 +9,18 @@ Welcome to my GitHub page. I am planning on putting a few projects up here to sh
 * Networking
 
 ## In-class projects
-    * Android Java Development for the Wheaton College Android application.
-    * Cache-enabled proxy using multithreading for concurrency.
-    * Tiny shell to emulate process management in unix-like shells.
-    * Various projects to fully understand data structures.
+* Android Java Development for the Wheaton College Android application.
+* Cache-enabled proxy using multithreading for concurrency.
+* Tiny shell to emulate process management in unix-like shells.
+* Various projects to fully understand data structures.
 
 # Outside Projects
 ## Code for the Kingdom
 [Kingdomline](/klweb/web/index.html)
 
-I worked primarily as a front end web devloper on this project using HTML, CSS and Javascript.
+Kingdomline is a phone tree service created to provide Christian support and advice for any trouble that someone is facing in life.
+
+I worked primarily as a front end web devloper on this project using HTML, CSS and JavaScript.
 
 ## Personal Projects
 Shell scripting - Bash-snippets
