@@ -1,12 +1,12 @@
 ## Jesse Tatum 
 
-Welcome to my GitHub Project Page. I am planning on putting a few projects up here to show some of the work that I have done in development in various different areas. This is currently in progress and not yet completed.
+Welcome to my GitHub page. I am planning on putting a few projects up here to show some of the work that I have done in development in various different areas. This is currently in progress and not yet completed.
 
 # Classwork
 ## Completed classes
-    * Programming I, Programming II, Discrete Math and Functional Programming, Software Development, Data Structures and Algorithms, Introduction to Computer Systems 
+    Programming I, Programming II, Discrete Math and Functional Programming, Software Development, Data Structures and Algorithms, Introduction to Computer Systems 
 ## In progress
-    * Networking
+    Networking
 
 ## In-class projects
     * Android Java Development for the Wheaton College Android application.
@@ -16,11 +16,15 @@ Welcome to my GitHub Project Page. I am planning on putting a few projects up he
 
 # Outside Projects
 ## Code for the Kingdom
-I worked primarily as a front end web devloper on this project using HTML, CSS and Javascript.
 [Kingdomline](/klweb/web/index.html)
+
+I worked primarily as a front end web devloper on this project using HTML, CSS and Javascript.
 
 ## Personal Projects
 Shell scripting - Bash-snippets
+
 Vim addins - Vim-pizza
+
 Wordpress development - SnakeOil
+
 Website design - THIS PAGE!
