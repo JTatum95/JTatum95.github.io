@@ -1,27 +1,54 @@
-.navbar-fixed-top {
-    height: 50px;
-}
+/* Styling for homepage */
 
-.navbar {
-    background: #fff;
-}
-
-
-
-.navbar-right {
-    float: left !important;
-    text-align: center;
+/* Navbar */
+.navbar-header {
     vertical-align: middle;
-    padding: 13px 20px 10px 15px;
-    border: none;
+    padding: 3em 0 -1em 0;
 }
 
+/* Jumbotron */
+.jumbotron {
+  color: white;
+  padding-bottom: 5rem;
+}
+.jumbotron .btn-primary {
+  border-color: #845ac7;
+}
+.jumbotron .btn-primary:hover {
+  background: #7646c1;
+}
+.jumbotron p {
+  color: #d9ccee;
+  max-width: 75%;
+  margin: 1em auto 2em;
+}
+.jumbotron h1 {
+  font-size: 2.5rem;
+}
+.navbar + .jumbotron {
+  margin-top: -20px;
+}
+.jumbotron .lang-logo {
+  display: block;
+  background: #B01302;
+  border-radius: 50%;
+  overflow: hidden;
+  width: 100px;
+  height: 100px;
+  margin: auto;
+  border: 2px solid white;
+}
+.jumbotron .lang-logo img {
+  max-width: 100%;
+}
 .jumbotron {
     font-family: sans-serif;
 	background-image: url(../images/city.jpg);
     background-size: cover;
+    rgba(0,0,0,.5);
 }
 
+/* Headers and fonts */
 .header { 
     color: #FFFFFF;
     display: table;
@@ -58,15 +85,4 @@ p {
   width:100%;
   text-align: center;  /* align the inline(-block) elements horizontally */
  
-}
-
-.vertical-center:before {   
-  content: " ";
-  vertical-align: middle;    /* vertical alignment of the inline element */
-  height: 100%;
-}
-
-#jumbo{
-    rgba(0,0,0,.5);
-    
 }
