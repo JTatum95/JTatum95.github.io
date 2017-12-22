@@ -14,7 +14,7 @@ To view my resume and coursework please view my resume: [Resume](/docs/JesseTatu
     * Various projects to fully understand data structures.
 
 # Outside Projects
-## Code for the Kingdom
+## Code for the Kingdom Hackathon
 [Kingdomline](/klweb/web/index.html)
 
 Kingdomline is a phone tree service created to provide Christian support and advice for any trouble that someone is facing in life.
@@ -25,21 +25,21 @@ I also helped the development of the backend with the Twilio API and PHP.
 
 ## Open Source Projects
 
-Bash-Snippets
+###Bash-Snippets - Bash Scripting
 I contributed to this repository by adding a feature to display detailed information on movies searches. This was created through bash scripting and the OMDb API.
 
 ## Personal Projects
 
-MissionCostaRica - WordPress development
+###MissionCostaRica - WordPress development
 This is a functional and published website that my parents use for mission work. 
 I grew up as a missionary in Costa Rica, where my parents are continuing to serve the people of Costa Rica and neighboring countries.
 I help maintain and customize this website to better reach anyone who would like to participate in their work.
 
-webConversions - Bash Scripting
+###webConversions - Bash Scripting
 This repository is a collection of scripts to convert px, em and rem to facilitate web design. These scripts were created for the bash shell on a UNIX system.
 
-SnakeOil - WordPress development 
+###SnakeOil - WordPress development 
 This blog was designed to have hands-on experience with WordPress and is not actually used beyond practice. I made this website from a default WordPress template that I customized.
 
-
-Website design - This website was designed using Jekyll and GitHub Pages default theme "Tactile"
+###This Page - Jekyll
+This website was designed using Jekyll and GitHub Pages default theme "Tactile"
