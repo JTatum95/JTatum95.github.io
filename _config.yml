@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
+theme: jekyll-theme-midnight
 kramdown:
     auto_ids: true # Auto-generate ID's for headings
 
