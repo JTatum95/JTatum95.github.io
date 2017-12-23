@@ -1,4 +1,4 @@
-![](/docs/profile.jpg){:class="img-responsive"} Welcome to my GitHub page. 
+![](/docs/profile.jpg =20x20){:class="img-responsive"} Welcome to my GitHub page. 
 I am planning on putting a few projects up here to show some of the work that I have done in development in various different areas. 
 
 This is currently in progress and not yet completed.
