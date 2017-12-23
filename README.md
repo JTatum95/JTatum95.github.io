@@ -1,4 +1,4 @@
-Welcome to my GitHub page. 
+![](/docs/profile.jpg){:class="img-responsive"} Welcome to my GitHub page. 
 I am planning on putting a few projects up here to show some of the work that I have done in development in various different areas. 
 
 This is currently in progress and not yet completed.
@@ -28,7 +28,7 @@ I contributed to this repository by adding a feature to display detailed informa
 
 ## Personal Projects
 
-### [MissionCostaRica](http://missioncostarica.com)- WordPress development
+### [MissionCostaRica](http://missioncostarica.com) - WordPress development
 This is a functional and published website that my parents use for mission work. 
 I grew up as a missionary in Costa Rica, where my parents are continuing to serve the people of Costa Rica and neighboring countries.
 I help maintain and customize this website to better reach anyone who would like to participate in their work.
