@@ -1,5 +1,3 @@
-# Jesse Tatum
-
 Welcome to my GitHub page. 
 I am planning on putting a few projects up here to show some of the work that I have done in development in various different areas. 
 
