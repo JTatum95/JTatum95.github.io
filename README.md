@@ -1,3 +1,5 @@
+# Jesse Tatum
+
 Welcome to my GitHub page. 
 I am planning on putting a few projects up here to show some of the work that I have done in development in various different areas. 
 
@@ -6,10 +8,10 @@ This is currently in progress and not yet completed.
 To view my resume and coursework please view my resume: [Resume](/docs/JesseTatumResume.pdf)
 
 # In-class projects
-    * Android Java Development for the Wheaton College Android application.
-    * Cache-enabled proxy using multithreading for concurrency.
-    * Tiny shell to emulate process management in unix-like shells.
-    * Various projects to fully understand data structures.
+* Android Java Development for the Wheaton College Android application.
+* Cache-enabled proxy using multithreading for concurrency.
+* Tiny shell to emulate process management in unix-like shells.
+* Various projects to fully understand data structures.
 
 # Outside Projects
 ## Code for the Kingdom Hackathon
@@ -40,4 +42,4 @@ This repository is a collection of scripts to convert px, em and rem to facilita
 This blog was designed to have hands-on experience with WordPress and is not actually used beyond practice. I made this website from a default WordPress template that I customized.
 
 ### [This Page](JTatum95.github.io) - Jekyll
-This website was designed using Jekyll and GitHub Pages default theme "Tactile".
+This website was designed using Jekyll and GitHub Pages default theme "Cayman".
