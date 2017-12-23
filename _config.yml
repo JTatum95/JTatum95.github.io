@@ -1,4 +1,4 @@
-theme: jekyll-theme-tactile
-kramdown:
-    auto_ids: true # Auto-generate ID's for headings
+theme: jekyll-theme-cayman 
+markdown: kramdown
+Name: Jesse Tatum
 
