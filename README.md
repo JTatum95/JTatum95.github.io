@@ -20,7 +20,6 @@ To view my resume and coursework please view my resume: [Resume](/docs/JesseTatu
 ### [Kingdomline](/klweb/web/index.html) - Front-end development
 
 Kingdomline is a phone tree service created to provide Christian support and advice for any trouble that someone is facing in life.
-
 I worked primarily as a front end web devloper on this project using HTML, CSS and JavaScript. 
 The web design was created using Bootstrap and Twig. 
 I also helped the development of the backend with the Twilio API and PHP.
