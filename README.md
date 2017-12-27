@@ -7,9 +7,13 @@ To view my resume and coursework please view my resume: [Resume](/docs/JesseTatu
 
 # In-class projects
 * Android Java Development for the Wheaton College Android application.
+    * I worked with a team using Java and XML formatting to rebuild the Wheaton College app using Git and GitHub.
 * Cache-enabled proxy using multithreading for concurrency.
+    * I wrote network code in C that handled HTTP requests.
 * Tiny shell to emulate process management in unix-like shells.
+    * This project involved process management and multitasking in C in a bash-like shell.
 * Various projects to fully understand data structures.
+    * Programs and JUnit tests to implement the following in Java: Queues, Stacks, Search Trees, Hash Tables, Graphs, Minimum Spanning Trees, Tries, etc.
 
 # Outside Projects
 ## Code for the Kingdom Hackathon
@@ -21,10 +25,14 @@ I worked primarily as a front end web devloper on this project using HTML, CSS a
 The web design was created using Bootstrap and Twig. 
 I also helped the development of the backend with the Twilio API and PHP.
 
+This project is currently offline and only the website design is visible.
+
 ## Open Source Projects
 
 ### [Bash-Snippets](https://github.com/alexanderepstein/Bash-Snippets) - Bash scripting
-I contributed to this repository by adding a feature to display detailed information on movies searches. This was created through bash scripting and the OMDb API.
+This repository is a colletion of bash scripts that can be helpful to users that frequent the terminal. 
+I contributed to this repository by adding a feature to display detailed information on movies searches. 
+This was created through bash scripting and the OMDb API.
 
 ## Personal Projects
 
@@ -34,10 +42,12 @@ I grew up as a missionary in Costa Rica, where my parents are continuing to serv
 I help maintain and customize this website to better reach anyone who would like to participate in their work.
 
 ### [webConversions](https://github.com/JTatum95/webConversions) - Bash scripting
-This repository is a collection of scripts to convert px, em and rem to facilitate web design. These scripts were created for the bash shell on a UNIX system.
+This repository is a collection of scripts to convert px, em and rem to facilitate web design. 
+These scripts were created for the bash shell on a UNIX system.
 
 ### [SnakeOilDev](https://snakeoildev.wordpress.com) - WordPress development 
-This blog was designed to have hands-on experience with WordPress and is not actually used beyond practice. I made this website from a default WordPress template that I customized.
+This blog was designed to have hands-on experience with WordPress and is not actually used beyond practice.
+I made this website from a default WordPress template that I customized.
 
 ### [This Page](JTatum95.github.io) - Jekyll
 This website was designed using Jekyll and GitHub Pages default theme "Cayman".

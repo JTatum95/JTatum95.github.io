@@ -1,63 +1,95 @@
 /* Styling for homepage */
 
 /* Navbar */
+
 .navbar-header {
     vertical-align: middle;
     padding: 3em 0 -1em 0;
 }
 
+.navbar-text {
+    vertical-align: middle;
+    padding: inherit;
+    height: inherit;
+    margin-bottom: auto;
+}
+
+.navbar {
+    vertical-align: middle;
+    text-align: center;
+}
+
 /* Jumbotron */
+
 .jumbotron {
-  color: white;
-  padding-bottom: 5rem;
+    color: white;
 }
+
 .jumbotron .btn-primary {
-  border-color: #845ac7;
+    border-color: #845ac7;
 }
+
 .jumbotron .btn-primary:hover {
-  background: #7646c1;
+    background: #7646c1;
 }
+
 .jumbotron p {
-  color: #d9ccee;
-  max-width: 75%;
-  margin: 1em auto 2em;
+    color: #d9ccee;
+    max-width: 75%;
+    margin: 1em auto 2em;
 }
+
 .jumbotron h1 {
-  font-size: 2.5rem;
+    font-size: 2.5rem;
 }
-.navbar + .jumbotron {
-  margin-top: -20px;
-}
+
 .jumbotron .lang-logo {
-  display: block;
-  background: #B01302;
-  border-radius: 50%;
-  overflow: hidden;
-  width: 100px;
-  height: 100px;
-  margin: auto;
-  border: 2px solid white;
+    display: block;
+    background: #B01302;
+    border-radius: 50%;
+    overflow: hidden;
+    width: 100px;
+    height: 100px;
+    margin: auto;
 }
+
 .jumbotron .lang-logo img {
-  max-width: 100%;
+    max-width: 100%;
 }
+
 .jumbotron {
     font-family: sans-serif;
-	background-image: url(../images/city.jpg);
+    background-image: url(../images/city.jpg);
     background-size: cover;
-    rgba(0,0,0,.5);
+    rgba(0, 0, 0, .5);
+}
+
+#phone {
+    text-align: left;
+    padding-right: 2em;
+}
+
+#jumbohead {
+    padding-top: 5em;
+}
+
+.btn-light {
+    border-radius: 0;
+    color: #333;
+    background-color: rgba(255, 255, 255, 0.85);
 }
 
 /* Headers and fonts */
-.header { 
+
+.header {
     color: #FFFFFF;
     display: table;
     position: relative;
     width: 100%;
 }
 
-div div div h3 { 
-    font-family: Arial, Trebuchet MS; 
+div div div h3 {
+    font-family: Arial, Trebuchet MS;
 }
 
 h1 {
@@ -66,7 +98,7 @@ h1 {
 }
 
 h2 {
-    font-family: 'Roboto', serif; 
+    font-family: 'Roboto', serif;
     font-size: 2.25em;
 }
 
@@ -74,15 +106,9 @@ p {
     font-family: 'Roboto', serif;
 }
 
-.btn-light {
-    border-radius: 0;
-    color: #333;
-    background-color: rgba(255,255,255,0.85);
-}
-
 .vertical-center {
-  height:100%;
-  width:100%;
-  text-align: center;  /* align the inline(-block) elements horizontally */
- 
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    /* align the inline(-block) elements horizontally */
 }
