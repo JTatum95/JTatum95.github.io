@@ -1,8 +1,0 @@
-#Force www:
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^kingdomline.tech [NC]
-RewriteRule ^(.*)$ http://www.kingdomline.tech/$1 [L,R=301,NC]
-
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^ index.php [QSA,L]
