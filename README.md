@@ -1,6 +1,7 @@
-![](/docs/profile.jpg =20x20)Welcome to my GitHub page. 
-I am planning on putting a few projects up here to show some of the work that I have done in development in various different areas. 
+![](/docs/profile.jpg =20x20)Hello! Welcome to my GitHub page. 
+I am a flexible developer who enjoys challenges, creatvity, and learning new things. I have done most of my development work in C and Java, but have also used JavaScript, HTML, CSS, PHP, Python as needed.
 
+I am planning on putting a few projects up here to show some of the work that I have done in development in various different areas. 
 This is currently in progress and not yet completed.
 
 To view my resume and coursework please view my resume: [Resume](/docs/JesseTatumResume.pdf)
