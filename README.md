@@ -18,7 +18,7 @@ To view my resume and coursework please view my resume: [Resume](/docs/JesseTatu
 
 # Outside Projects
 ## Code for the Kingdom Hackathon
-### [Kingdomline](/klweb/web/index.html) - Front-end development
+### [Kingdomline](/kingdomline/web/index.html) - Front-end development
 
 Kingdomline is a phone tree service created to provide Christian support and advice for any trouble that someone is facing in life.
 I worked primarily as a front end web devloper on this project using HTML, CSS and JavaScript. 
