@@ -1,0 +1,16 @@
+/* Shared CSS for main page theme */
+
+/* Navbar */
+.navbar-fixed-top {
+    height: 50px;
+}
+.navbar {
+    background: #fff;
+}
+.navbar-right {
+    float: right !important;
+    text-align: center;
+    vertical-align: middle;
+    padding: .8rem 1.25rem .8rem .8rem;
+    border: none;
+}
