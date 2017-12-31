@@ -2,35 +2,32 @@
 
 /* Navbar */
 
-.navbar-header {
-    vertical-align: middle;
-    padding: 3em 0 -1em 0;
-}
-
 .navbar-text {
     vertical-align: middle;
     padding: inherit;
     height: inherit;
     margin-bottom: auto;
+    text-align: center;
 }
 
-.navbar {
-    vertical-align: middle;
-    text-align: center;
+#phone {
+    text-align: left;
+    padding-right: 3em;
 }
 
 /* Jumbotron */
 
 .jumbotron {
     color: white;
+    font-family: sans-serif;
+    background-image: url(../images/city.jpg);
+    background-size: cover;
+    rgba(0, 0, 0, .5);
+    max-width: 100%;
 }
 
-.jumbotron .btn-primary {
-    border-color: #845ac7;
-}
-
-.jumbotron .btn-primary:hover {
-    background: #7646c1;
+#jumbohead {
+    padding-top: 5em;
 }
 
 .jumbotron p {
@@ -43,34 +40,13 @@
     font-size: 2.5rem;
 }
 
-.jumbotron .lang-logo {
-    display: block;
-    background: #B01302;
-    border-radius: 50%;
-    overflow: hidden;
-    width: 100px;
-    height: 100px;
-    margin: auto;
+/* Button */
+.jumbotron .btn-primary {
+    border-color: #845ac7;
 }
 
-.jumbotron .lang-logo img {
-    max-width: 100%;
-}
-
-.jumbotron {
-    font-family: sans-serif;
-    background-image: url(../images/city.jpg);
-    background-size: cover;
-    rgba(0, 0, 0, .5);
-}
-
-#phone {
-    text-align: left;
-    padding-right: 2em;
-}
-
-#jumbohead {
-    padding-top: 5em;
+.jumbotron .btn-primary:hover {
+    background: #7646c1;
 }
 
 .btn-light {
@@ -106,9 +82,14 @@ p {
     font-family: 'Roboto', serif;
 }
 
+
 .vertical-center {
     height: 100%;
     width: 100%;
     text-align: center;
     /* align the inline(-block) elements horizontally */
+}
+
+.bottom-columns {
+    padding-bottom: 
 }
