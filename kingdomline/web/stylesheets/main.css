@@ -4,13 +4,29 @@
 .navbar-fixed-top {
     height: 50px;
 }
-.navbar {
-    background: #fff;
-}
+
 .navbar-right {
     float: right !important;
     text-align: center;
     vertical-align: middle;
     padding: .8rem 1.25rem .8rem .8rem;
     border: none;
+}
+
+.navbar {
+    margin-bottom: 0px;
+    background: #fff;
+}
+
+.navbar-text {
+    vertical-align: middle;
+    padding: inherit;
+    height: inherit;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+#phone {
+    text-align: left;
+    padding-right: 3em;
 }

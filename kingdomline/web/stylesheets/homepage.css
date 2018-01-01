@@ -1,23 +1,5 @@
 /* Styling for homepage */
-
-/* Navbar */
-
-.navbar {
-    margin-bottom: 0px;
-}
-
-.navbar-text {
-    vertical-align: middle;
-    padding: inherit;
-    height: inherit;
-    margin-bottom: auto;
-    text-align: center;
-}
-
-#phone {
-    text-align: left;
-    padding-right: 3em;
-}
+/* Navbar styling in main.css */
 
 /* Jumbotron */
 
