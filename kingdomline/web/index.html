@@ -3,12 +3,18 @@
 <head>
     <title>KingdomLine</title>
 
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
     <!-- Import Bootstrap and utilities -->
     <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" />
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script type="text/javascript" src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
 
+    <!-- JQuery and JS -->
+    <script src="includes/jquery/jquery-2.1.0.min.js"></script>
+    <script src="includes/bootstrap/js/bootstrap.min.js"></script>
 
     <!-- Custom stylesheets -->
     <link rel="stylesheet" type="text/css" href="stylesheets/main.css" />
@@ -21,25 +27,29 @@
 <nav class="navbar" role="navigation">
         <a class="navbar-brand" href="index.html">KingdomLine</a>
 
-        <div class="collapse navbar-collapse navbar-header" id="navbar-collapse">
-            <ul class="nav navbar-nav">
-                <li class="dropdown navbar-left">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us<span class="caret"></span></a>
-                    <ul class="dropdown-menu">
-                        <li><a href="#">Mission Statement</a></li>
-                        <li><a href="#">Meet the Staff</a></li>
-                        <li><a href="#">Our Services</a></li>
-                    </ul>
-                </li>
-            </ul>
-        </div>
-        <div class="nav-item nav-link navbar-text navbar-collapse" data-toggle="collapse" data-target="#navbarCollapse">
-            <a href="coach_signup.html">Coach Sign-up!</a>
-        </div>
-        <div class="nav-item nav-link navbar-text navbar-collapse" data-toggle="collapse" data-target="#navbarCollapse">
-            <a href="donor_signup.html">Donor Sign-up!</a>
-        </div>
-        <div class="navbar-text navbar-right" id="phone">(773) 985-3318</div>
+    <!--
+        <a href="coach_signup.html" class="nav-link navbar-collapse navbar-text">Coach Sign-up!</a>
+
+        <a href="donor_signup.html" class="nav-link navbar-collapse navbar-text">Donor Sign-up!</a>
+    -->
+    
+        <div class="navbar-text navbar-right nav-collapse .hidden-md-down" id="phone">(773) 985-3318</div>
+        <button class="navbar-toggle navbar-right" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="glyphicon glyphicon-align-justify"></span>
+        </button>
+        <nav class="navbar-collapse collapse" role="navigation">
+            <li class="dropdown navbar-left">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">About Us<span class="caret"></span></a>
+                <ul class="dropdown-menu">
+                    <li><a href="#">Mission Statement</a></li>
+                    <li><a href="#">Meet the Staff</a></li>
+                    <li><a href="#">Our Services</a></li>
+                </ul>
+            </li>
+            <li><a href="coach_signup.html">Coach sign-up</a></li>
+            <li><a href="donor_signup.html">Donor sign-up</a></li>
+          </ul>
+        </nav>
 </nav>
 
 
@@ -49,10 +59,9 @@
     <div class="jumbotron vertical-center">
         <div class="header">
             <div class="text-vertical-center text-center vertical-center">
-                <div class="container" id="jumbo">
+                <div class="container">
 
-                    <div class="container">
-                        </br>
+                    <div class="container container-fluid" id="jumbodiv">
 
                         <h1 id="jumbohead">A hotline for anything</h1>
                         </br>
