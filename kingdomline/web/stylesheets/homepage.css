@@ -9,7 +9,7 @@
     background-image: url(../images/city.jpg);
     background-size: cover;
     max-width: 100%;
-    min-height: 40px;
+    min-height: 10em;
 }
 
 #jumbohead {
@@ -74,7 +74,6 @@ h2 {
 p {
     font-family: 'Roboto', serif;
 }
-
 
 .vertical-center {
     height: 100%;

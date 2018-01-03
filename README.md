@@ -1,4 +1,4 @@
-![](/docs/profile.jpg =30x30)Hello! Welcome to my GitHub page. 
+Hello! Welcome to my GitHub page. 
 I am a flexible developer who enjoys challenges, creatvity, and learning new things. I have done most of my development work in C and Java, but have also used JavaScript, HTML, CSS, PHP, Python as needed.
 
 I am planning on putting a few projects up here to show some of the work that I have done in development in various different areas. 
@@ -9,10 +9,15 @@ To view my resume and coursework please view my resume: [Resume](/docs/JesseTatu
 # In-class projects
 * Android Java Development for the Wheaton College Android application.
     * I worked with a team using Java and XML formatting to rebuild the Wheaton College app using Git and GitHub.
-* Cache-enabled proxy using multithreading for concurrency.
-    * I wrote network code in C that handled HTTP requests.
+    * I primarily worked on app design, the ranking board feature, and checking for bugs on other features.
+    * Unfortunately this app no longer works due to a change in the Wheaton College website, but this [powerpoint](/docs/WheatonApp.pptx) shows some of the work completed.
+
+* Multithreaded HTTP proxy
+    * HTTP proxy in C with multithreaded network code for concurrency.
+
 * Tiny shell to emulate process management in unix-like shells.
     * This project involved process management and multitasking in C in a bash-like shell.
+
 * Various projects to fully understand data structures.
     * Programs and JUnit tests to implement the following in Java: Queues, Stacks, Search Trees, Hash Tables, Graphs, Minimum Spanning Trees, Tries, etc.
 

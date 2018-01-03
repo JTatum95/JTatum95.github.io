@@ -20,7 +20,7 @@
     <!-- Custom stylesheets -->
     <link rel="stylesheet" type="text/css" href="stylesheets/main.css" />
     <link rel="stylesheet" type="text/css" href="stylesheets/form.css" />
-    
+
 </head>
 
 <!-- Navbar -->
@@ -49,82 +49,125 @@
 </nav>
 
 <!-- Form -->
+
 <body>
-    </br></br></br>
-    <h2>Donor Application</h2>
+    </br>
+    </br>
+    </br>
 
     <div class="form">
         <h1>
             <?=$display_message;?>
         </h1>
         </br>
-        <form method="post" action="<?=$_SERVER['PHP_SELF'];?>">
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="first_name" placeholder="First Name" size="30" required/><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="last_name" placeholder="Last Name" size="30" required/><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="email" placeholder="Email" size="30" required/><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="phone" placeholder="Phone" size="30" required/><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="password" class="form-control" name="password" placeholder="Password" size="30" required/><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control credit" name="credit_card_number" placeholder="Credit Card Number" size="30" required/> <input type="text" class="form-control cvv" name="security_code" placeholder="CVV" size="4" required/><br/>
-            <br /></br>
-            <div class="expiration">
-                Expires:
-                <select name="exp_month" class="exp">
-                <option value="1">Jan</option>
-                <option value="2">Feb</option>
-                <option value="3">Mar</option>
-                <option value="4">Apr</option>
-                <option value="5">May</option>
-                <option value="6">Jun</option>
-                <option value="7">Jul</option>
-                <option value="8">Aug</option>
-                <option value="9">Sep</option>
-                <option value="10">Oct</option>
-                <option value="11">Nov</option>
-                <option value="12">Dec</option>
-            </select>
-                <select name="exp_year" class="exp">
-                <option value="2017">2017</option>
-                <option value="2018">2018</option>
-                <option value="2019">2019</option>
-                <option value="2020">2020</option>
-                <option value="2021">2021</option>
-                <option value="2022">2022</option>
-                <option value="2023">2023</option>
-            </select>
-            </div>
-            <br />
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="billing_address" placeholder="Billing Address" size="30" required/><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="billing_address_2" placeholder="Suite # (optional)" size="30" /><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="billing_city" placeholder="Billing City" size="30" required/><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="billing_state" placeholder="Billing State" size="30" required/><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="billing_zipcode" placeholder="Billing Zipcode" size="30" required/><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="monthly_budget" placeholder="Monthly Budget ($ USD)" size="30" required/><br />
-            <br />
-            <input type="submit" id="button" name="action" value="Submit Application" />
-        </form>
+        <div class="container">
+            <h2>Donor Application</h2>
+
+            <form class="form-horizontal" role="form">
+                <fieldset>
+                    <legend>Contact Information</legend>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label" for="card-holder-name">Name</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="name" placeholder="Full Name" required/>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label" name="email">Email Address</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="email" placeholder="Email" required/>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label" name="email">Phone Number</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control .bfh-phone" data-format="+1 (ddd) ddd-dddd">
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label" name="email">Password</label>
+                        <div class="col-sm-9">
+                            <input type="password" class="form-control" name="password" placeholder="Password" required/>
+                        </div>
+                    </div>
+
+
+                    <legend>Payment</legend>
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label" for="card-holder-name">Name on Card</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="card-holder-name" id="card-holder-name" placeholder="Card Holder's Name">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label" for="card-number">Card Number</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="card-number" id="card-number" placeholder="Debit/Credit Card Number">
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label" for="expiry-month">Expiration Date</label>
+                        <div class="col-sm-9">
+                            <div class="row">
+                                <div class="col-xs-3">
+                                    <select class="form-control col-sm-2" name="expiry-month" id="expiry-month">
+                <option>Month</option>
+                <option value="01">Jan (01)</option>
+                <option value="02">Feb (02)</option>
+                <option value="03">Mar (03)</option>
+                <option value="04">Apr (04)</option>
+                <option value="05">May (05)</option>
+                <option value="06">June (06)</option>
+                <option value="07">July (07)</option>
+                <option value="08">Aug (08)</option>
+                <option value="09">Sep (09)</option>
+                <option value="10">Oct (10)</option>
+                <option value="11">Nov (11)</option>
+                <option value="12">Dec (12)</option>
+              </select>
+                                </div>
+                                <div class="col-xs-3">
+                                    <select class="form-control" name="expiry-year" id="expiry-year">
+                <option value="13">2013</option>
+                <option value="14">2014</option>
+                <option value="15">2015</option>
+                <option value="16">2016</option>
+                <option value="17">2017</option>
+                <option value="18">2018</option>
+                <option value="19">2019</option>
+                <option value="20">2020</option>
+                <option value="21">2021</option>
+                <option value="22">2022</option>
+                <option value="23">2023</option>
+              </select>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label" for="cvv">Card CVV</label>
+                        <div class="col-sm-3">
+                            <input type="text" class="form-control" name="cvv" id="cvv" placeholder="Security Code">
+                        </div>
+                    </div>
+
+
+                    <div class="form-group">
+                        <div class="col-sm-offset-3 col-sm-3">
+                            <button type="button" class="btn btn-success" id="button">Submit</button>
+                        </div>
+                        <div class="form-check">
+                            <input type="checkbox" class="form-check-input">
+                            <label class="form-check-label" id="check">Subscribe for email updates</label>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </div>
     </div>
 </body>
 

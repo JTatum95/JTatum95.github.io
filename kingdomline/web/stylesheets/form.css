@@ -8,66 +8,47 @@ body, html{
     background-repeat: no-repeat;
     background-size: cover;
     overflow-x: hidden;
-}
-
-h4.title { 
-	font-size: 3.125rem;
-	font-family: 'Corbel'; 
-	font-weight: 400; 
+    text-align: center;
+    color: white;
 }
 
 h2 {
-    color: #FFFFFF;
-    font-size: 3rem;
     text-align: center;
 }
+#expiry-month {
+    margin-top: .5em;
+    margin-bottom: .25em;
+}
 
-.form-group{ margin-bottom: .9rem; }
+#expiry-year {
+    margin-top: .5em;
+    margin-bottom: .25em;
+}
 
-label{ margin-bottom: .9rem; }
+#check { margin-top: 1em; }
 
 .form-control {
+    text-align: center;
     height: auto!important;
-    padding: .5rem .75rem !important;
 }
 
-.span {
-    position: relative;
-    float: left;
-    overflow: hidden;
-}
+legend { color: white; }
 
 #button {
     vertical-align: middle;
     text-align: center;
     border: 1px solid #ccc;
     margin-top: .75rem;
-    padding: .3rem .75rem .8rem .75rem;
     color: #000000;
     text-shadow: 0 1px #fff;
     cursor: pointer;
     border-radius: 3px 3px;
     box-shadow: 0 1px #fff inset, 0 1px #ddd;
 }
-span.input-group-addon i {
-    color: #009edf;
-    font-size: 1.1rem;
-}
 
 p {
     pointer-events: none !important;
-    color: black;
-}
-.expiration {
-    align-self: center;
-    font-size: 1.1rem;
-    color: #FFFFFF;
-}
-.exp { color: #000; s}
-.credit, .cvv, .exp_month, .exp_year {
-    float: left;
-    position: relative;
-    width: 50%;
+    color: white;
 }
 
 .form {
@@ -81,8 +62,4 @@ p {
     background: rgba(0, 0, 0, 0.7);
     padding: 3.1rem 3.1rem 3.1rem 3.1rem;
     margin: 0 350px 50px 350px;
-}
-
-.form-control {
-    text-align: c
 }

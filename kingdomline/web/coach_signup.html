@@ -52,32 +52,62 @@
 <!-- Form -->
 <body>
     <br/><br/><br/>
-    <h2>Coach Application</h2>
     
     <div class="form">
         <h1>
             <?=$display_message;?>
         </h1>
         <br/>
-        <form method="post" action="<?=$_SERVER['PHP_SELF'];?>">
-            <!--<span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="first_name" placeholder="First Name" size="30" required/><br/>
-            <br/>
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="last_name" placeholder="Last Name" size="30" required/><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="email" placeholder="Email" size="30" required/><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="text" class="form-control" name="phone" placeholder="Phone" size="30" required/><br/>
-            <br />
-            <!--            <span class="input-group-addon"></span>-->
-            <input type="password" class="form-control" name="password" placeholder="Password" size="30" required/><br/>
-            <br />
-            <input id="button" id="button" type="submit" name="action" value="Submit Application" />
-        </form>
-    </div>
+ <div class="container">
+         <h2>Coach Application</h2>
+
+            <form class="form-horizontal" role="form">
+                <fieldset>
+                    <legend>Contact Information</legend>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label" for="card-holder-name">Name</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="name" placeholder="Full Name" required/>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label" name="email">Email Address</label>
+                        <div class="col-sm-9">
+                            <input type="text" class="form-control" name="email" placeholder="Email" required/>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label" name="email">Phone Number</label>
+                        <form>
+                        <div class="col-sm-9">
+                            <input type="tel" class="form-control bfh-phone" data-format="+1 (ddd) ddd-dddd">
+                        </div>
+                        </form>
+                    </div>
+
+                    <div class="form-group">
+                        <label class="col-sm-3 control-label" name="email">Password</label>
+                        <div class="col-sm-9">
+                            <input type="password" class="form-control" name="password" placeholder="Password" required/>
+                        </div>
+                    </div>
+                    
+                    <div class="form-group">
+                        <div class="col-sm-offset-3 col-sm-3">
+                            <button type="button" class="btn btn-success" id="button">Submit</button>
+                        </div>
+                        <div class="form-check">
+                        <input type="checkbox" class="form-check-input">
+                        <label class="form-check-label" id="check">Subscribe for email updates</label>
+                    </div>
+                    </div>
+
+                </fieldset>
+            </form>
+        </div>
 </body>
 
 </html>
