@@ -12,7 +12,7 @@ body, html{
     color: white;
 }
 
-h2 {
+h2 { 
     text-align: center;
 }
 #expiry-month {
@@ -61,5 +61,5 @@ p {
     vertical-align: middle;
     background: rgba(0, 0, 0, 0.7);
     padding: 3.1rem 3.1rem 3.1rem 3.1rem;
-    margin: 0 350px 50px 350px;
+    margin-bottom: 3.25rem;
 }
