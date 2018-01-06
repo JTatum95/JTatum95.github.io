@@ -50,11 +50,11 @@ I help maintain and customize this website to better reach anyone who would like
 This repository is a collection of scripts to convert px, em and rem to facilitate web design. 
 These scripts were created for the bash shell on a UNIX system.
 
-{ %comment% }
+{ % comment % }
 ### [SnakeOilDev](https://snakeoildev.wordpress.com) - WordPress development 
 This blog was designed to have hands-on experience with WordPress and is not actually used beyond practice.
 I made this website from a default WordPress template that I customized.
-{ %endcomment% }
+{ % endcomment % }
 
 ### [This Page](JTatum95.github.io) - Jekyll
 This website was designed using Jekyll and GitHub Pages default theme "Cayman".
