@@ -2,7 +2,7 @@ Hello! Welcome to my GitHub page.
 I am a flexible developer who enjoys challenges, creatvity, and learning new things. I have done most of my development work in C and Java, but have also used JavaScript, HTML, CSS, PHP, Python as needed.
 
 I have placed a few development projects here to show some of the work that I have done.
-This is currently in progress and not yet completed.
+This page will continue to be updated as I get the current projects I am working on in a more complete state.
 
 To view my resume and coursework please view my resume: [Resume](/docs/JesseTatumResume.pdf)
 
