@@ -41,10 +41,11 @@ This was created through bash scripting and the OMDb API.
 
 ## Personal Projects
 
-### [MissionCostaRica](http://missioncostarica.com) - WordPress development
+### [MissionCostaRica](http://missioncostarica.com) - Joomla management
 This is a functional and published website that my parents use for mission work. 
 I grew up as a missionary in Costa Rica, where my parents are continuing to serve the people of Costa Rica and neighboring countries.
 I help maintain and customize this website to better reach anyone who would like to participate in their work.
+I just took ownership of this project a few weeks ago and I am currently working on updates to the design.
 
 ### [webConversions](https://github.com/JTatum95/webConversions) - Bash scripting
 This repository is a collection of scripts to convert px, em and rem to facilitate web design. 
