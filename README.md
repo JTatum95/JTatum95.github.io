@@ -41,6 +41,11 @@ This was created through bash scripting and the OMDb API.
 
 ## Personal Projects
 
+### [PizzaMe](https://github.com/JTatum95/PizzaMe) - Python3
+I decided that I wanted to order pizza from the terminal.
+I am still not sure why this is necesarry, but it feels right.
+In progress, stay tuned for updates!
+
 ### [MissionCostaRica](http://missioncostarica.com) - Joomla management
 This is a functional and published website that my parents use for mission work. 
 I grew up as a missionary in Costa Rica, where my parents are continuing to serve the people of Costa Rica and neighboring countries.
