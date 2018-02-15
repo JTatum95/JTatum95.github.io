@@ -7,19 +7,19 @@ This page will continue to be updated as I get the current projects I am working
 To view my resume and coursework please view my resume: [Resume](/docs/JesseTatumResume.pdf)
 
 # In-class projects
-* Android Java Development for the Wheaton College Android application.
-    * I worked with a team using Android Java and XML alogn with GitHub and an agile development format to rebuild the Wheaton College app.
-    * I primarily worked on app design, the ranking board feature, and checking for bugs on other features.
+* Android Java Development  - Wheaton College Android app.
+    * I worked using Android Java and XML along with GitHub to redesign the Wheaton College app.
+    * I primarily worked on the design and implementation of the ranking board feature, who's who, and checking for bugs on other features.
     * Unfortunately this app is no longer fully functioning due to a change on our service to get campus events, but this [powerpoint](/docs/WheatonApp.pptx) shows some of the work.
 
-* Multithreaded HTTP proxy
+* Multithreaded HTTP proxy - C and Python3
     * HTTP proxy in C with multithreaded network code for concurrency.
 
-* Tiny shell to emulate process management in unix-like shells.
+* Tiny bash-like shell - C
     * This project involved process management and multitasking in C in a bash-like shell.
 
-* Various projects to fully understand data structures.
-    * Implement and test with JUnit testing the following in Java: Queues, Stacks, Search Trees, Hash Tables, Graphs, Minimum Spanning Trees, Tries, etc.
+* Data structure implementation - Java development
+    * Implement and run JUnit testing on the following in Java: Queues, Stacks, Search Trees, Hash Tables, Graphs, Minimum Spanning Trees, Tries, etc.
 
 # Outside Projects
 ## Code for the Kingdom Hackathon - Crowd Favorite
