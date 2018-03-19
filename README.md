@@ -25,7 +25,7 @@ These projects are available upon request, but not linked here so as to not temp
     * Implement and run JUnit testing on the following in Java: Queues, Stacks, Search Trees, Hash Tables, Graphs, Minimum Spanning Trees, Tries, etc.
 
 * Adventure Game - Java
-    * A text based game to introduce students to the concepts of individual and responsive design.
+    * A text based adventure game to introduce team programming, creative design, and user input and error handling. 
     
 # Outside Projects
 ## Code for the Kingdom Hackathon - Crowd Favorite
