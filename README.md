@@ -8,6 +8,8 @@ This page will continue to be updated as I get the current projects I am working
 My [Resume](/docs/JesseTatumResume.pdf) is also available.
 
 # In-class projects
+These projects are available upon request, but not linked here so as to not tempt other students.
+
 * Android Java Development  - Wheaton College Android app.
     * I worked using Android Java and XML along with GitHub to redesign the Wheaton College app.
     * I primarily worked on the design and implementation of the game ranking board feature, as well as bug fixes on the who's who engine (searches for students and faculty on campus)
@@ -22,6 +24,9 @@ My [Resume](/docs/JesseTatumResume.pdf) is also available.
 * Data structure implementation - Java
     * Implement and run JUnit testing on the following in Java: Queues, Stacks, Search Trees, Hash Tables, Graphs, Minimum Spanning Trees, Tries, etc.
 
+* Adventure Game - Java
+    * A text based game to introduce students to the concepts of individual and responsive design.
+    
 # Outside Projects
 ## Code for the Kingdom Hackathon - Crowd Favorite
 ### [Kingdomline](/kingdomline/web/index.html) - Front-end development
@@ -53,7 +58,7 @@ These scripts were created for the bash shell on a UNIX system.
 This is a functional and published website that my parents use for mission work. 
 I grew up as a missionary in Costa Rica, where my parents are continuing to serve the people of Costa Rica and neighboring countries.
 I help maintain and customize this website to better reach anyone who would like to participate in their work.
-I just took ownership of this project a few weeks ago and I am currently working on updates to the design.
+I took ownership of this project a few weeks ago and I am currently working on updates to the design.
 
 {% comment %}
 ### [SnakeOilDev](https://snakeoildev.wordpress.com) - WordPress development 
