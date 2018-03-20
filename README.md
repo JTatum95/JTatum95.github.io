@@ -5,7 +5,7 @@ I have done most of my development work in C, Java, and Python. However, I have 
 I have placed a few development projects here to show some of the work that I have done.
 This page will continue to be updated as I get the current projects I am working on in a more complete state.
 
-My [Resume](/docs/JesseTatumResume.pdf) is also available.
+My [Resume](/docs/JesseTatumResume2018.pdf) is also available.
 
 # In-class projects
 These projects are available upon request, but not linked here so as to not tempt other students.
