@@ -1,6 +1,6 @@
-Hello! Welcome to my GitHub page. 
+Welcome to my GitHub page. 
 I am a flexible developer who enjoys challenges, creativity, and learning new things. 
-I have done most of my development work in C, Java, and Python. However, I have also used JavaScript, HTML, CSS, and PHP.
+I have done most of my software development work in C, Java, and Python. I also enjoy web development work in PHP, JavaScript, Ruby on Rails, and HTML/CSS.
 
 I have placed a few development projects here to show some of the work that I have done.
 This page will continue to be updated as I get the current projects I am working on in a more complete state.
@@ -8,7 +8,7 @@ This page will continue to be updated as I get the current projects I am working
 My [Resume](/docs/JesseTatumResume2018.pdf) is also available.
 
 # In-class projects
-These projects are available upon request, but not linked here so as to not tempt other students.
+Source code for these projects are available upon request, but not linked here so as to not give away solutions.
 
 * Android Java Development  - Wheaton College Android app.
     * I worked using Android Java and XML along with GitHub to redesign the Wheaton College app.
