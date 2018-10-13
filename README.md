@@ -1,6 +1,7 @@
 Welcome to my GitHub page. 
 I am a flexible developer who enjoys challenges, creativity, and learning new things. 
-I have done most of my software development work in C, Java, and Python. I also enjoy web development work in PHP, JavaScript, Ruby on Rails, and HTML/CSS.
+I have done most of my software development work in C, Java, and Python. 
+I also enjoy web development work in PHP, JavaScript, Ruby on Rails, and HTML/CSS.
 
 I have placed a few development projects here to show some of the work that I have done.
 This page will continue to be updated as I get the current projects I am working on in a more complete state.
