@@ -1,5 +1,6 @@
 Welcome to my GitHub page. 
-I am a flexible developer who loves to learn and create. I enjoy new challenges and problem solving. 
+
+I am a flexible developer who loves to learn and create. I am always seeking new challenges and ways to solve problems. 
 I have done most of my software development work in C, Java, and Python. 
 I also enjoy web development work in PHP, JavaScript, Ruby on Rails, and HTML/CSS with MySQL databases.
 
