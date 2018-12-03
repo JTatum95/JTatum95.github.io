@@ -1,15 +1,20 @@
 Welcome to my GitHub page. 
-I am a flexible developer who enjoys challenges, creativity, and learning new things. 
+I am a flexible developer who loves to learn and create. I enjoy new challenges and problem solving. 
 I have done most of my software development work in C, Java, and Python. 
-I also enjoy web development work in PHP, JavaScript, Ruby on Rails, and HTML/CSS.
+I also enjoy web development work in PHP, JavaScript, Ruby on Rails, and HTML/CSS with MySQL databases.
 
 I have placed a few development projects here to show some of the work that I have done.
-This page will continue to be updated as I get the current projects I am working on in a more complete state.
+I am working on a few projects that I hope to add to this page once they arrive to a more stable state.
 
-My [Resume](/docs/JesseTatumResume2018.pdf) is also available.
+Please take a look at my [Resume](/docs/JesseTatumResume2018.pdf)
 
 # In-class projects
 Source code for these projects are available upon request, but not linked here so as to not give away solutions.
+
+* Web Development - PHP, Javascript, and MySQL
+    * Create a web application using the Leaflet map API to model trucks and their travel throughout the US.
+    * Allow for user input to update and delete from databases following different foreign key infrastructures.
+    * NOTE: This project will soon be deployed but is still undergoing final touches.
 
 * Android Java Development  - Wheaton College Android app.
     * I worked using Android Java and XML along with GitHub to redesign the Wheaton College app.
@@ -55,12 +60,13 @@ A script that allows the user to spoof a new MAC address and restore the default
 This can be useful for network testing or privacy.
 These scripts were created for the bash shell on a UNIX system.
 
+{% comment %}
 ### [MissionCostaRica](http://missioncostarica.com) - Joomla management
 This is a functional and published website that my parents use for mission work. 
 I grew up as a missionary in Costa Rica, where my parents are continuing to serve the people of Costa Rica and neighboring countries.
 I help maintain and customize this website to better reach anyone who would like to participate in their work.
 I took ownership of this project a few weeks ago and I am currently working on updates to the design.
-
+{% endcomment %}
 {% comment %}
 ### [SnakeOilDev](https://snakeoildev.wordpress.com) - WordPress development 
 This blog was designed to have hands-on experience with WordPress and is not actually used beyond practice.
