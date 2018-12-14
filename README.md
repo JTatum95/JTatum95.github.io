@@ -12,12 +12,12 @@ Please take a look at my [Resume](/docs/JesseTatumResume2018.pdf)
 # In-class projects
 Source code for these projects are available upon request, but not linked here so as to not give away solutions.
 
-* Web Development - PHP, Javascript, and MySQL
-    * Create a web application using the Leaflet map API to model trucks and their travel throughout the US.
+* [Database Integrated Truck Modeling](https://dbmodeling.herokuapp.com) - PHP, Javascript, and MySQL
+    * Implement website to keep track of trucks and their transport through the US.
+    * Use Leaflet API to create markers on map for warehouses and trucks. 
     * Allow for user input to update and delete from databases following different foreign key infrastructures.
-    * NOTE: This project will soon be deployed but is still undergoing final touches.
 
-* Android Java Development  - Wheaton College Android app.
+* Wheaton College Android App - Android Java, XML 
     * I worked using Android Java and XML along with GitHub to redesign the Wheaton College app.
     * I primarily worked on the design and implementation of the game ranking board feature, as well as bug fixes on the who's who engine (searches for students and faculty on campus)
     * Unfortunately this app is no longer fully functioning due to a change in the API hosted by the college (we're unofficial), but this [powerpoint](/docs/WheatonApp.pptx) shows some of the work.
@@ -26,7 +26,7 @@ Source code for these projects are available upon request, but not linked here s
     * HTTP proxy with multithreading and caching. Written with multithreading for concurrency. 
 
 * Tiny bash-like shell - C
-    * This project involved process management and multitasking in C in a bash-like shell.
+    * Simple bash-like shell to interpret basic commands and manage multitasking processes.
 
 * Data structure implementation - Java
     * Implement and run JUnit testing on the following in Java: Queues, Stacks, Search Trees, Hash Tables, Graphs, Minimum Spanning Trees, Tries, etc.
@@ -43,7 +43,7 @@ I worked primarily as a front end web developer on this project using HTML, CSS 
 The web design was created using Bootstrap and Twig. 
 I also helped the development of the back-end with the Twilio API and PHP.
 
-This project has been discontinued, but the website design is visible following the above link.
+This project functionality has been discontinued, but the website design is visible following the above link.
 
 ## Personal Projects
 
