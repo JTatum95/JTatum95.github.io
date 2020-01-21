@@ -7,7 +7,7 @@ I also enjoy web development work in PHP, JavaScript, Ruby on Rails, and HTML/CS
 I have placed a few development projects here to show some of the work that I have done.
 I am working on a few projects that I hope to add to this page once they arrive to a more stable state.
 
-Please take a look at my [Resume](/docs/JesseTatumResume2018.pdf)
+Please take a look at my [Resume](/docs/JesseTatumResume2019.pdf)
 
 # In-class projects
 Source code for these projects are available upon request, but not linked here so as to not give away solutions.
